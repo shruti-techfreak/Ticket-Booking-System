@@ -1,5 +1,5 @@
 # Ticket-Booking-System
-A Java program for ticket booking system\
+A Java program for ticket booking system
 
 The program includes the code for ticket booking system by using various OOPs concepts such as classes, inheritance, abstraction,etc.\
 The system is built to book a ticket for the bus and gives the total cost of the ticket.\
